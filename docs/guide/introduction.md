@@ -52,7 +52,7 @@ for small jobs and tests.
 
 ## Requirements
 
-- PHP 8.4+
+- PHP 8.3+
 - Laravel 11, 12 or 13
 - An Adobe Developer Console project with **OAuth Server-to-Server** credentials
 

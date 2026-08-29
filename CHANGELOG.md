@@ -2,6 +2,11 @@
 
 All notable changes to `laravel-adobe-pdf` will be documented in this file.
 
+## 1.1.0 - 2026-08-29
+
+- Lower the minimum PHP requirement to **8.3** (`php: ^8.3`). No code changes were required — the package only uses PHP 8.1+ features.
+- Add PHP 8.3 back to the test matrix.
+
 ## 1.0.0 - 2026-08-28
 
 Initial release.
